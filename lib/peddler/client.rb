@@ -19,7 +19,8 @@ module Peddler
       'A21TJRUUN4KGV'  => 'mws.amazonservices.in',
       'APJ6JRA9NG5V4'  => 'mws-eu.amazonservices.com',
       'A1VC38T7YXB528' => 'mws.amazonservices.jp',
-      'ATVPDKIKX0DER'  => 'mws.amazonservices.com'
+      'ATVPDKIKX0DER'  => 'mws.amazonservices.com',
+      'AZAJMM36N6WQL'  => 'mws-eu.amazonservices.com'
     }
 
     attr_accessor :path
